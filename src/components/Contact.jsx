@@ -8,6 +8,11 @@ import { SectionWrapper } from '../hoc';
 import { slideIn } from "../utils/motion";
 
 
+//vibeevents00@gmail.com
+//template_dt1pfwu
+// service_oaktndp
+// BLvRglCbgqv2f4g-K
+
 const Contact = () => {
   const formRef = useRef();
 
@@ -26,25 +31,26 @@ const Contact = () => {
   
   const handleSubmit = (e) => {
     e.preventDefault();
-    setLoading(true)
+    setLoading(true);
 
-    emailjs.send('service_gasyscs', 'template_qxe3hdw',
+    emailjs.send('service_oaktndp', 'template_dt1pfwu',
       {
         from_name: form.name,
-        to_name: 'Okwe',
+        to_name: 'vibe',
         from_email: form.email,
-        to_email: 'okwe7788@gmail.com',
+        to_email: 'vibeevents00@gmail.com',
         message: form.message,
       },
-      'jvep3l9FNjGx5t3eC'
-    ).then(() => {
+      'BLvRglCbgqv2f4g-K',
+    )
+    .then(() => {
       setLoading(false);
       alert('i will get back to you as soon as possible');
       setForm(
         {
           name: '',
           email: '',
-          message:'',
+          message: '',
         }
       )
     }, (error) => {
