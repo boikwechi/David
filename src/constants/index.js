@@ -181,10 +181,10 @@ const testimonials = [
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+    name: "Okwe David",
     designation: "COO",
     company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://scontent.fabb1-1.fna.fbcdn.net/v/t39.30808-6/310930796_1239531816777972_5524714715045434599_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE1CfLTkdqq2j9wjgKAKJFHu03TYsekpMC7TdNix6SkwDGenmKIZcNBEc_XjmDPxbfGps5SOEdrRoLmtyQleDJs&_nc_ohc=bHVsgAy0pcoAX-YWttK&_nc_zt=23&_nc_ht=scontent.fabb1-1.fna&oh=00_AfBeyxACBimRtX_dT8d53N4f2suGvvllpkZN-QjTaJGJww&oe=64731F0E",
   },
   {
     testimonial:
