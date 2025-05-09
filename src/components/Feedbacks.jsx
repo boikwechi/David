@@ -28,7 +28,6 @@ const FeedbackCard = ({index, testimonial, name, designation, company, image }) 
     </div>
   </motion.div>
 )
-
 const Feedbacks = () => {
   return (
     <>

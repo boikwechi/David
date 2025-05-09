@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Video Editor",
     icon: mobile,
   },
   {
@@ -172,27 +172,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
+      "I thought it was impossible to make a website as beautiful as our product, but David proved me wrong.",
+    name: "Nhikhil Dhingra",
     designation: "CFO",
     company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://randomuser.me/api/portraits/women/3.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Okwe David",
+      "I've never met a web developer who truly cares about their clients' success like David does.",
+    name: "Michael Langua",
     designation: "COO",
     company: "DEF Corp",
-    image: "https://scontent.fabb1-1.fna.fbcdn.net/v/t39.30808-6/310930796_1239531816777972_5524714715045434599_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE1CfLTkdqq2j9wjgKAKJFHu03TYsekpMC7TdNix6SkwDGenmKIZcNBEc_XjmDPxbfGps5SOEdrRoLmtyQleDJs&_nc_ohc=bHVsgAy0pcoAX-YWttK&_nc_zt=23&_nc_ht=scontent.fabb1-1.fna&oh=00_AfBeyxACBimRtX_dT8d53N4f2suGvvllpkZN-QjTaJGJww&oe=64731F0E",
+    image: "https://randomuser.me/api/portraits/men/1.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "After David optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Dan Albert",
     designation: "CTO",
     company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://randomuser.me/api/portraits/women/1.jpg",
   },
 ];
 
@@ -216,7 +216,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/boikwechi",
+    source_code_link: "https://github.com/boikwechi/okwe-trillo",
   },
   {
     name: "Job IT",
@@ -237,7 +237,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/boikwechi",
   },
   {
     name: "Trip Guide",
@@ -258,7 +258,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/boikwechi/learning",
   },
 ];
 
