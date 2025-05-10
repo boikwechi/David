@@ -33,19 +33,19 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    emailjs.send('service_oaktndp', 'template_dt1pfwu',
+    emailjs.send('service_ti3w8y6', 'template_j8ox6ep',
       {
         from_name: form.name,
-        to_name: 'vibe',
+        to_name: 'okwedavidukwuru',
         from_email: form.email,
-        to_email: 'vibeevents00@gmail.com',
+        to_email: 'okwedavidukwuru@gmail.com',
         message: form.message,
       },
-      'BLvRglCbgqv2f4g-K',
+      'cDJpjtzW9Zdw1wmJJ',
     )
     .then(() => {
       setLoading(false);
-      alert('i will get back to you as soon as possible');
+      alert('i will get back to you ASAP');
       setForm(
         {
           name: '',
